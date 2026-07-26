@@ -88,4 +88,4 @@ LLM        자연어 → PyQGIS 실행 에이전트 · RAG 검색 · 모델 평�
 
 ---
 
-포트폴리오: [QGIS × LLM (PDF, 9쪽)](portfolio.pdf) · 연락: dynamic_123@naver.com
+포트폴리오: [QGIS × LLM (PDF, 9쪽)](https://github.com/ShinMyeongho/ShinMyeongho/blob/master/portfolio.pdf) · 연락: dynamic_123@naver.com
